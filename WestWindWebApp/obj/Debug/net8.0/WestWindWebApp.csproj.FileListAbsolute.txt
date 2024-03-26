@@ -1,0 +1,6 @@
+C:\Users\katie\Downloads\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\ClientServerSolution\WestWindWebApp\obj\Debug\net8.0\WestWindWebApp.csproj.AssemblyReference.cache
+C:\Users\katie\Downloads\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\ClientServerSolution\WestWindWebApp\obj\Debug\net8.0\WestWindWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katie\Downloads\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\ClientServerSolution\WestWindWebApp\obj\Debug\net8.0\WestWindWebApp.AssemblyInfoInputs.cache
+C:\Users\katie\Downloads\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\ClientServerSolution\WestWindWebApp\obj\Debug\net8.0\WestWindWebApp.AssemblyInfo.cs
+C:\Users\katie\Downloads\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\ClientServerSolution\WestWindWebApp\obj\Debug\net8.0\WestWindWebApp.csproj.CoreCompileInputs.cache
+C:\Users\katie\Downloads\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\ClientServerSolution\WestWindWebApp\obj\Debug\net8.0\WestWindWebApp.MvcApplicationPartsAssemblyInfo.cache

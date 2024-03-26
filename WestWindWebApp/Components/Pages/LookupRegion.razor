@@ -1,0 +1,42 @@
+﻿#page "/LookupRegion"
+
+@using WestWindSystem.BLL;
+@using WestWindSystem.DAL;
+@using WestWindSystem.Entities;
+
+<h3>LookupRegion</h3>
+<div>
+    <label class="form-label" for="regionid">Region ID</label>
+    <input class="form-control" type="number" id="regionid" @bind="RegionID"/>
+</div>
+
+<div class="mb-3">
+    <button class="btn btn-primary" @onclick="DisplayRegion">DisplayRegion</button> 
+</div>
+
+
+@if (region != null)
+{
+    <p>RegionID: @RegionID</p>
+    <p>Region Description: @region.RegionDescription</p>
+}
+
+
+
+
+
+@code {
+    [Inject]
+    public RegionServices RegionServices { get; set; }
+
+    private int RegionID { get; set; }
+    private Region region { get; set; }
+
+    public void DisplayRegion()
+    {
+        region = RegionServices.LookupRegionByID(RegionID);
+    }
+
+    //on a new component /page
+    //  load a DDL with all the region descriotions shown. have a default prompt. as well when a button is clicked display the region id and description from the database. if no region is selected display an error message (use a dictionary) and display the message below the ddl.
+}

@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\katie\\Downloads\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\\ClientServerSolution\\WestWindWebApp\\WestWindWebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\katie\\Downloads\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\\ClientServerSolution\\WestWindSystem\\WestWindSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\katie\\Downloads\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\\ClientServerSolution\\WestWindSystem\\WestWindSystem.csproj",
+        "projectName": "WestWindSystem",
+        "projectPath": "C:\\Users\\katie\\Downloads\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\\ClientServerSolution\\WestWindSystem\\WestWindSystem.csproj",
+        "packagesPath": "C:\\Users\\katie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katie\\Downloads\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\\ClientServerSolution\\WestWindSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\katie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\katie\\Downloads\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\\ClientServerSolution\\WestWindWebApp\\WestWindWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\katie\\Downloads\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\\ClientServerSolution\\WestWindWebApp\\WestWindWebApp.csproj",
+        "projectName": "WestWindWebApp",
+        "projectPath": "C:\\Users\\katie\\Downloads\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\\ClientServerSolution\\WestWindWebApp\\WestWindWebApp.csproj",
+        "packagesPath": "C:\\Users\\katie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\katie\\Downloads\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\\ClientServerSolution\\WestWindWebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\katie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\katie\\Downloads\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\\ClientServerSolution\\WestWindSystem\\WestWindSystem.csproj": {
+                "projectPath": "C:\\Users\\katie\\Downloads\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main (1)\\cpsc-1517-Classworkbook-jan2024-A03-ShaneBell-main\\ClientServerSolution\\WestWindSystem\\WestWindSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
